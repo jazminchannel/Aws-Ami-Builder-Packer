@@ -1,4 +1,4 @@
-# AWS-Ami-Builder-Packer
+# Building an AWS AMI using Packer and Ansible
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
