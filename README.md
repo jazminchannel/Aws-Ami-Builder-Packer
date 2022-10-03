@@ -1,4 +1,4 @@
-# Aws-Ami-Builder-Packer
+# AWS-Ami-Builder-Packer
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
